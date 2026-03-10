@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EPI-1100
-- 👀 I’m interested in c++, arduino programs and PIC microcontrollers
-- 🌱 I’m currently learning c++ and c#
+- 👀 I’m interested in c++ embeded sistems
+- 🌱 I’m currently sistems developing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me: danieldeassis738@gmail.com
 - ⚡ Fun fact:
 
 <!---
